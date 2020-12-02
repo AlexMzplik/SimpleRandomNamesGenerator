@@ -1,0 +1,2 @@
+# SimpleRandomNamesGenerator
+Created with CodeSandbox
